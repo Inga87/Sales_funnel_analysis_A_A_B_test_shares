@@ -1,5 +1,7 @@
 # Sales_funnel_analysis_A_A_B_test_shares
 
+---
+
 ## PROJECT DESCRIPTION
 
 Project objective - analyze consumer behavior using sales funnel and test if changing font in application will lead to increase in sales.  
