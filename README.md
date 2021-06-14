@@ -1,7 +1,7 @@
 # Sales_funnel_analysis_A_A_B_test_shares
 
 
-link to the code => **
+link to the code => *https://nbviewer.jupyter.org/github/Inga87/Sales_funnel_analysis_A_A_B_test_shares/blob/main/A_A_B_test_funnel_sales.ipynb*
 
 ---
 
